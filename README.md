@@ -1,4 +1,16 @@
-# Probando titulo uno
+# Probando cosillas en el curso
+## Probando algo de Markdown
+### Tables
+| Columna | Columna 2 | Lola |  
+| ---- | ----------------- | -------------------|  
+| dato |               -10 |                 25 |  
+| maslargo || al principio con menos columnas |
+| 1920 |               nana |                 32 |  
+
+**Negritica y tal**
+__esto es bold__
+: Se indenta y tal?
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sannacho/taller_git_pages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
